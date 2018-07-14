@@ -1,4 +1,5 @@
-let newID = oldID += 1000000000;
+let newID;
+newID = oldID += 1000000000;
 
 
 /*
