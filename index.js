@@ -1,4 +1,5 @@
-newID = oldID + 10**10
+newID = oldID + 10**10;
+
 
 /*
 Variables defined in the test suite:
