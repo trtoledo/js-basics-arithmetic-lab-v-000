@@ -11,5 +11,4 @@ You should NOT try to redefine any of the above variables.
 let newID = 1000000000;
 newID += oldID ;
 
-let ageIsValid;
-ageIsValid = currentAge.isNaN()
+const ageIsValid = Number.isInteger(currentAge);
