@@ -1,4 +1,4 @@
-newID = oldID += 10 ** 10;
+newID = oldID += 1000000000;
 
 
 /*
